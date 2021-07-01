@@ -42,6 +42,6 @@ and (re)compiling the source code.
 
 ## References
 
-see: [suckless.org](https://suckless.org/) website
-see: [dwm](https://dwm.suckless.org/) page
+- see: [suckless.org](https://suckless.org/) website
+- see: [dwm](https://dwm.suckless.org/) page
 
